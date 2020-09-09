@@ -1,0 +1,1 @@
+This project helps us learn emacs. We stored some commands in files.
